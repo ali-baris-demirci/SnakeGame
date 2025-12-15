@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 # Snake Game
 
-A simple Snake game implemented in Python using `pygame`. This repository contains the game code (`snake.py`) that you can run locally.
+A simple Snake game implemented in Python using `pygame`.
+
+This repository contains the game code (`snake.py`) that you can run locally.
+
+## Description
+
+A basic snake game, written in Python.
 
 ## Requirements
 
