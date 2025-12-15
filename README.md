@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Snake Game
 
 A simple Snake game implemented in Python using `pygame`.
@@ -32,6 +31,4 @@ This project follows the tutorial series by Tech With Tim — specifically the s
 
 Thanks to Tech With Tim for the helpful tutorial that guided this implementation.
 
-## Notes
 
-No license is included by request. If you'd like a license added later, I can add one.
